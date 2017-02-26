@@ -1,0 +1,4427 @@
+Újévi beszélgetés
+2007.01.4.
+
+            Bencsik András és Bándy Péter interjúja a Magyar Demokratában Orbán Viktorral.
+        
+
+
+
+
+
+
+
+
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:238;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-fareast-language:EN-US;
+	mso-bidi-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	mso-bidi-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+
+
+– Jones gazda...
+– Hm...
+
+
+– Schmidt Mária egy, a Népszabadságban közölt cikkében önt hasonlította hozzá. Azzal biztatta a baloldaliakat, hogy ne féljenek, Jones gazda nem jön vissza, de Gyurcsánynak is mennie kell...
+– Engem Orbán Viktornak hívnak, és ezen egyelőre nem is akarok változtatni.
+
+– Ennyi?
+– Talán még annyi, hogy a szóban forgó úr elment. Én nem mentem el, ezért nem is jöhetek vissza. Egyszerűen csak itt vagyok. Teszem a dolgomat. Kitanultam már az ellenfél hadviselésének módszereit. Amikor valamire készülnek, akkor az ellenfelet vádolják meg azzal, amit ők maguk tenni akarnak. Amikor választási csalásra készülnek, megvádolnak bennünket, hogy törvénytelenül akarjuk befolyásolni az eredményeket. Amikor pedig a mi belső viszonyainkat elemezgetik, az azt jelenti, hogy baj van odaát.
+
+– Ezek szerint az MSZP Gyurcsány Ferenc eltávolítására készül?
+– Kívülről nem láthatunk bele a lapjaikba, de nem is szükséges. Nekünk nem rájuk, hanem az emberekre kell figyelnünk. Annyit biztosan mondhatok, hogy a magyarok nincsenek és nem is lesznek annyira megbillent morális állapotban, hogy huzamosabb ideig elviseljék, amit a jelenlegi kormány a kormányfő vezénylésével művel. Amikor azt mondom, hogy a kormányfőnek távoznia kell, és ez csak idő kérdése, akkor több száz éves szabályok alapján értékelem a helyzetet. Vele már nem számolunk, vele nincs több dolgunk, legfeljebb a magyar baloldallal.
+
+
+– Mit ért magyar baloldal alatt?
+– A meghatározás történeti és filozófiai értelemben pontatlan, ugyanúgy, mint jobboldalnak nevezni a jelenlegi ellenzéket. Ezek inkább nyelvi jelzőrakéták, hogy értsük egymás gondolatait, hogy tudjuk, éppen kiről beszélünk. Magyarországon sajátságos helyzetbe kerültünk. A szocialisták a Szocialista Internacionálé tagjai, a Fidesz pedig az európai néppártok uniójának tagja. Ezért itt, Magyarországon is jobb-, illetve baloldaliaknak nevezzük ezeket a pártokat, de ez gyakran megtévesztő. Mondok egy jellemző példát. Itt van a kisgazdapárt hagyománya, amit ma egyértelműen a jobboldalra sorolnak be. Ám annak idején plebejus érzelmű párt volt, társadalompolitikai programjuk szemben állt a két világháború közötti jobboldali kormányokéval. Ám ha azt mondanám, hogy a kisgazdák hagyománya baloldali, akkor megköveznének, mert a baloldallal sokan a kommunizmust, tehát az internacionalizmust és az ateizmust azonosítják, márpedig a kisgazdák az Isten és a haza nevében álltak szemben a kommunistákkal. Visszatérve a mai baloldalra, van egy dokumentum, amelyről már hosszú évek óta nem hallottam.
+
+Ha jól emlékszem, 1999-ben készült, Szociáldemokrata Charta volt a címe. Ezt a dokumentumot a posztkommunisták idősebb nemzedéke fogalmazta, azzal az igénnyel, hogy a rendszerváltoztatás után végre világosan megmondják, a múlt mellett – jogfolytonosság az MSZMP-vel – milyen jövőt szeretnének építeni Magyarországon. Az MSZP-nek ez a programja alapvetően baloldali volt. 2004-től, amikor a fiatal szocialista milliárdosok elfoglalták az MSZP-t – anélkül, hogy bejelentették volna –, a Szociáldemokrata Chartát kidobták az ablakon. Ma lényegében egy neoliberális forgatókönyv alapján cselekednek. Hasonló jelenség játszódik le magyar változatban, mint amit Tony Blair hajtott végre Angliában, vagy Schröder Németországban. Az ilyen – neoliberális – változást a nagytőke mindig üdvözli, úgy mondják, modernizálódik a baloldal, a baloldali érzelmű emberek pedig mindenhol úgy tekintettek erre a változásra, hogy elárulták őket. Hiszen a német szociáldemokraták például a hagyományos munkásvilágot hagyták magára, négymillió fölé is szökött a munkanélküliség. Blairék Munkáspártja is a hagyományos munkás támogatóit hagyta maga mögött, és globalista párttá vált. Legfeljebb választások idején kalózkodnak a baloldali értékekkel, remélve, hogy megtarthatják régi híveiket. Ám a nyilvánvaló ellentmondás egyre kényelmetlenebbé vált, innen ered az új baloldal és a harmadik utas politika elnevezés, amelynek világkampányához a még hatalomban lévő Bill Clinton is csatlakozott.
+
+– Ha politikai tevékenységük alapján kellene jellemeznie a balliberális pártokat, akkor hogyan hívná ezeket?
+– Magyarország esetében posztkommunistának nevezhetjük őket. Tudomásul veszem ugyanakkor, hogy ez az elnevezés értelmezésre szorul, márpedig, mint tudjuk, a találó elnevezések nem szorulnak értelmezésre. Az én megoldásom tehát nem tökéletes, de legalább pontos. A magyarországi kommunistáknak 1956 után egy sajátságos fejlődéstörténet jutott osztályrészül, és ez megkülönböztette őket a többi közép-európai kommunista párttól is. A forradalom az ő szempontjukból azt jelentette, hogy a nép felelősségre vonta őket mindazért, amit elkövettek az emberek ellen. Ilyen addig nem történt. Sőt sehol máshol sem volt arra példa a szovjet birodalomban, hogy a nép mondjon ítéletet a kommunistákról. Az idő rövidsége miatt az elszámoltatás nem öltött jogi formát, a választásokat sem tarthatták meg, de az ítéletet október 23-án kimondták. Ez a felelősségre vonás máig ható tapasztalata a magyar kommunistáknak. Ha egy ideológia fölött a nép olyan nyílt ítéletet mond, mint 1956-ban, akkor megcsappan azok száma, akik továbbra is őszintén hinni tudnak. 
+
+Következésképpen ’56 után már nem a kommunizmus nevében gyakorolták a hatalmat, hanem a hatalom nevében. "Nincs más, nem lehet más alternatíva, ezért az lesz veletek, amit mi akarunk." Ezért a rendszerváltás nem a többi közép-európai kommunista párthoz hasonló MSZMP-t talált itt, hanem egy túlélésre berendezkedő, ideológiamentes, hatalmi konglomerátumot. Ez magyarázza, hogy míg a többi kommunista párt szétesett, átalakult, a helyére került, a magyar egyben maradt, és sikeresen mentette át hatalmi gépezetét. Hatalmat mentettek át, nem eszmét, ideát, értékeket. Hatalom, pénz, cinizmus: ez az ő realitásuk, erre épülnek az átmentett hálózataik is.
+
+– A besúgókra gondol?
+– Jóval többre, a rendszerváltoztatás előtti időből áthozott, s ma is működő gazdasági, politikai, kulturális, média és titkosszolgálati érdekszövetségekre.
+
+
+– Október 23-án azonban kiderült, hogy a polgári elégedetlenség egyelőre nem túl hatékony a hálózattal szemben. Bár a baloldal morális értelemben vesztett, a polgári ellenzék nem győzött. Lehet demokratikus eszközökkel nyerni egy ilyen hálózat ellenében?
+– Ma az a helyzet, hogy van egy csalással, az emberek megtévesztésével hatalomra jutott, illegitim kormány. A csalás a valóság megismeréséhez fűződő jog megtagadását, ezáltal a szabad döntés jogának elvételét jelenti. A kormánypártok maguk is beismerik, hogy csak egy hazugságkampánnyal sikerült hatalmon maradniuk. Olyan helyzetbe hozták az embereket, mintha bekötött szemmel kellett volna voksolniuk. Ennek súlyos következményei lettek. Kiderült, hogy miután évekig nem kormányoztak, gazdasági válság alakult ki, és ennek súlyos árát az emberekkel akarják megfizettetni. Ez az ár borsos lesz, számos családot sodor majd megélhetési válságba. Érdemes szétválasztanunk, hogy mit válaszolhat erre a helyzetre a nép, és mit válaszolhatnak az alkotmányos jogrendre felesküdött népképviselők. A népnek, ha csak nem akarja, hogy újra és újra kiforgassák a zsebeit, az lehet a válasza, hogy elkergeti azokat, akik ezt a helyzetet előidézték. Azoknak a felháborodása tehát, akik őszszel ezt követelték, érthető és jogos. Az elégedetlenség azonban ma még nem tisztázott okokból szinte azonnal erőszakba fordult át. Márpedig a hazugságra az erőszak rossz válasz. Hogy kinek állt érdekében a jogos elégedetlenséget erőszakba fordítani, arra előbb-utóbb megkapjuk a választ.
+
+
+– És addig?
+– Az erő és az erőszak nem keverendő öszsze. Az erős ember nem erőszakos. Az erőszakosság gyakran a gyengeség leplezését szolgálja. A Fidesznek az a feladata, hogy megteremtsük azt a lehetőséget, aminek segítségével erőszak nélkül fejezhetjük ki azt a népi erőt, amellyel elmozdítható a csalással hatalomra jutott koalíció. Ismétlem, a kormányt csak a nép távolíthatja el. Mivel az elégedetlenségnek kettős gyökere van – egy szociális és egy politikai természetű, vagyis a megélhetési válság és a demokrácia csonkolása –, ezért olyan formákat kell találnunk, amelyekkel mind a politikai, mind pedig a szociális elégedetlenség kifejezhető.
+
+
+– Például?
+– A népszavazás. A hét kérdésünket is ennek szellemében állítottuk össze.
+
+
+– Kezdeményezésüket azonban lesöpörte az Országos Választási Bizottság...
+– Az OVB szakmailag elfogadhatatlan, politikailag pedig elfogult döntést hozott. Ezért fordultunk az Alkotmánybírósághoz. Hiszek abban, hogy itt olyan határozat születik, amely kiállja a politikai elfogulatlanság és a törvényesség próbáját. A népszavazással, amennyiben az elképzeléseinknek megfelelően megtartható lesz, felkínáljuk az embereknek a lehetőséget, hogy a jövőről szóló értelmes vitában vehessenek részt. Ez a mi válaszunk a kormányzat hazugságára, a csalásra.
+
+
+– A radikálisok éppen ezt vetik a Fidesz, illetve személyesen az ön szemére, hogy ha egyszer a másik oldal nem ragaszkodik a törvényes keretekhez, akkor önök miért nem alkalmaznak keményebb eszközöket?
+– Kétfajta út létezik: a forradalmi és az alkotmányos. A forradalmi útra lépés olyan következményekkel járna, amit propagálói nem tudnak, vagy nem akarnak belátni. Az erőszak kockázatán túl gazdasági megrendülés, és a forint összeomlása is kézzelfogható közelségbe kerülhet. Amíg van esély arra, hogy az alkotmányos út eredményhez vezethet, járjunk inkább azon. Látok arra esélyt, hogy ez az út – a népszavazás – eredményes lehet. Megértem az indulatokat is. Megértem, hogy sokan kezdik egyre inkább elveszíteni a türelmüket, sokan érzik úgy, hogy az egyre romló közállapotok már kibírhatatlanok, sokan látják, amint kifosztják, eladósítják az országot, sőt már a gyermekeink jövőjét is elzálogosítják. S közben a szocialista milliárdosok bankszámlái egyre híznak, jutalmakat fizetnek egymásnak, miközben tönkretették az országot, kormányzati luxusnegyedeken és ingatlanspekulációkon jár az eszük, miközben tandíjat, vizitdíjat vezetnek be, az égbe emelik az árakat, s családok százezreit juttatják megélhetési válságba.
+
+
+– Láttuk önt és politikustársait november negyedikén, a budapesti fáklyás menet élén. Feszült volt az arcuk. Mi volt a tét?
+– Fontos nap volt, nemcsak a politikában, az én életemben is. Október huszonharmadikán fordult elő először ötven év óta, hogy a hatalom megverette a saját népét, a nyílt utcán. Mindannyian úgy éreztük, hogy bosszút állnak ’56-ért, bosszút állnak, mert ’56 nem enged a meghamisítási kísérleteknek, hanem marad, ami volt, az igazság felemelő pillanata. Úgy gondoltam, ezt nem lehet annyiban hagynunk. Meg kell mutatnunk, hogy megverhetnek ugyan, de nem győzhetnek le bennünket. Volt kockázata a menetnek, hiszen október 23-a után senki sem tudhatta, most mire kaptak politikai utasítást a készséges rendőri vezetők. Bár mindenki szabad akaratából, saját felelősségére jött el, de mégiscsak én hívtam őket. Felemelő és megerősítő is volt, amit átéltem.
+Én rendszerváltó politikusként kerültem a közéletbe. Annak idején, a nyolcvanas évek második felében azért kezdtünk szervezkedni, azért hoztuk létre a Fideszt, mert úgy gondoltuk, hogy történelmi esély nyílt a diktatúra megbontására és a nemzeti függetlenség visszaszerzésére. Hittem abban, hogy ugyan a XX. századot elveszítettük, de a XXI. századot megnyerhetjük. Nos, november negyedikén újra úgy érezhettük magunkat, mint a rendszerváltoztatás hajnalán, nem voltak vezetők és vezetettek. Sok tízezer ember azért volt együtt, mert összetartotta őket egy közös akarat.
+
+
+– Félt?
+– A kommunista szovjet birodalom összeomlása a hetvenes évek végén úgy kezdődött, hogy II. János Pál azt mondta Lengyelországban egymillió ember előtt misézve: "ne féljetek!", ami nem azt jelentette, hogy "ne volna rá okotok". Hanem azt, hogy "arra is jó okotok van, hogy ne féljetek. Nektek kell döntenetek." Aki viharos politikai eseményekben vesz részt, tanulja meg ezt az igazságot. Aki nem fél, az bátor sem lehet, hiszen a bátorság a félelem legyőzéséből ered.
+
+– Együtt volt mindenki. Szép volt valóban. Az év végén azonban felerősödött egy vita arról, hogy mi a jobb stratégia: együtt vagy külön?
+– A jobboldal megtalálta azt a szerkezetet, aminek segítségével mindig győzelmi esélylyel lép fel a választásokon. Ezt bizonyítja az önkormányzati választás eredménye is. Nem mondom, hogy mindig győzünk, de az esélyünk mindig megvan a sikerre. Ne felejtsük: a posztkommunisták egyben tartják magukat. Nem mondják, de ott is működik az egy a tábor, egy a zászló. Semmi okunk arra, hogy az egységes ellenféllel szemben darabokra vágjuk magunkat. Az európai néppártok többsége is a mi utunkat járja. Ám hadd mondjak egy egyszerűbb dolgot is. Ha a másik oldal, vagyis az ellenfelünk tanácsol valamit, akkor érdemes annak az ellenkezőjét tennünk, hiszen nyilvánvalóan saját érdekeik szerint osztogatják a tanácsaikat. Ők mindig azt mondják, váljunk szét, mert az jó, az egészséges. Ha így van, miért nem kezdik magukon? Járjanak elől jó példával, ha komolyan gondolják. Mi együtt fogunk maradni.
+
+– A közelmúltban Győrben tartott kongreszszust a Fidesz, ahol létrejött az Önkormányzati Képviselők Fóruma. Miért volt ez fontos?
+– Az önkormányzati választásokon olyan tér nyílt meg a jobboldal előtt, amelynek jelentőségét a mai napig is alig tudtuk felbecsülni. Kétségtelen, hogy az önkormányzatokat kivéreztették. Abban sincs vita, hogy a szocialista parlamenti képviselők a költségvetési döntésükkel az önkormányzatokat kiszolgáltatták a kormánynak. De mégiscsak az élet igazi színterei – iskolák, kórházak, szociális otthonok, kulturális intézmények – az önkormányzatok tulajdonában állnak. Ráadásul öröklött hálózataiknak köszönhetően eddig a másik oldal ott volt szinte mindenhol, mi nem. Most ez megváltozott. Mindez új perspektívát nyit meg előttünk. Számtalan városban és faluban végre nem ellenzékben leszünk, hanem alkothatunk, építkezhetünk, ami sokkal többet jelent, mint hogy a parlamentben vitatkozunk a szocialistákkal. Kipróbálhatunk számos fontos kezdeményezést, amit később, egy országgyűlési választási siker után kormánypártként országos méretekben is elindíthatunk. Egyébként 1998-ban is azért tudtunk viszonylag gördülékenyen nekilátni a munkának, mert számos intézkedést már tesztelhettünk néhány fideszes vezetésű városban az előző ciklusban. Erre készülünk most is, csak sokkal több településen.
+
+– Az ellenfelei erre azt mondják, egy kézben akarja tartani az irányítást az önkormányzatok felett...
+- Ezt még egy miniszterelnök sem tudja megtenni. Az önkormányzatokat az alkotmányos rend és a helyi sajátosságok miatt nem lehet egy központból irányítani.
+
+– A baloldal, ha szabad így fogalmaznunk, nagyon intelligensen reagált a polgári összefogás választási sikerére, mert az uniós pénzek elosztására új fórumot hozott létre. Mi a véleménye erről?
+– Lehet ezt intelligens lépésnek nevezni, mert ha úgy vesszük, igazán gonosz is csak az lehet, aki intelligens. Ismét szembefordultak a választók akaratával. Elvettek eszközöket azoknak az önkormányzatoknak a kezéből, amelyek vezetői élvezik a településeken élők bizalmát. Ez nyílt kijátszása a demokratikus alapokon működő önkormányzati rendszernek. Oda jutottunk, hogy antidemokratikus törekvéseiket most már nyíltan vállalják: nem titkolják például, hogy fel akarják számolni a megyéket, pedig az emberek az önkormányzati választáson kiálltak a megyéik mellett.
+
+– Az unióra hivatkoznak, a régiókra.
+– A pénzelosztásnak semmi köze az régiókhoz. Van olyan ország, amely egyetlen régióból áll, és van, ahol sok régiót hoztak létre. Szerintem az a legfontosabb, hogy a döntéseket minél közelebb vigyük az emberekhez. Ők éppen az ellenkezőjét teszik. Ne legyenek illúzióink: szó sincs itt reformról, vagy a közigazgatás korszerűsítéséről, az egész mögött nyers pénzügyi érdekek húzódnak. Arról van szó, hogy a magyaroknak járó nyolcezer milliárd forintra hogyan tudják rátenni a kezüket. Azt se felejtsük el, hogy saját bevallásuk szerint már elköltöttek 1800 milliárd forintot. Hová került ez a temérdek pénz, miért nem látszik az ország állapotán?
+
+– Megszorítások...
+– Nehéz ezt megmagyarázni, amikor ennyi pénz érkezik, miért nem a legfontosabbra, az emberekre, népegészségügyre, oktatásra, szakképzésre fordítjuk ezt a páratlan lehetőséget. A szocialisták gigantomán nagyberuházásokat akarnak, központi megbízásokkal, központból szétosztott megrendelésekkel. Ki jár jól ezzel?
+
+– Miközben a Szövetség itthon ellenzékben van, a Európai Parlamentben a konzervatív oldal adja a többséget. Hogyan lehetne ráirányítani a figyelmet arra, hogy mi történik nálunk?
+– Brüsszel nem Moszkva. Az EU nem avatkozik be, legfeljebb véleményt mond, észrevételez. Magyarország uniós tagországként is kialakíthat egy mélyen antidemokratikus rendszert, az EU mégsem fog valamiféle jó Moszkvaként rendet tenni. A magyar ügy az a magyarok ügye. A másik dimenziója azonban legalább olyan fontos az uniós tagságnak, mint a demokrácia itthoni állapota. Nehéz ugyanis nem észrevenni, fenyeget a veszély, hogy visszasorolnak bennünket az orosz érdekszférába. Most ez nem katonai megszállást, hanem gazdasági érdekszférába sorolást jelenthet. A kormány ezt a veszélyt vagy nem érzékeli, vagy nem aggasztja, sőt mintha elő is segítené ezt a veszedelmes folyamatot. Az energiafüggőség kulcskérdés lesz a következő években, Európa energiaéhsége óriási. Olyan hol nyílt, hol titkos megállapodások köttetnek, amelyek Magyarországot Oroszország előretolt gazdasági bástyájává tehetik. Kelet felől nézve mi vagyunk az utolsó olyan ország, ahol az állam lemondott a nemzetstratégiai és nemzetbiztonsági szempontból felbecsülhetetlen értékű közellátási rendszerek tulajdonáról. Tőlünk nyugatra ez nem lehetséges. Tegyük világossá: nem akarunk a Gazprom legvidámabb barakkja lenni!
+
+– Mit hoz Románia csatlakozása?
+– Nehéz döntést hozott az unió. A román tagság kockázatai tekintélyesek; már most mintegy hárommillió román dolgozik az unió tagországaiban, elsősorban a mediterrán térségben. Történik ez akkor, amikor az EU nem tudja rászánni magát olyan gazdaságpolitikára, amelynek középpontjában új munkahelyek teremtése állna. Úgy tűnik, Románia, szemben Magyarországgal, él majd azzal a történelmi lehetőséggel, amit az uniós tagság kínál és képes lesz viharos gyorsasággal növekedni és erősödni. Az Erdélyben élő magyarok szorult helyzetbe juthatnak. Az RMDSZ, mint a mór, megtette kötelességét, örökös kormánypártként bizonyította a román demokrácia és kisebbségpolitika EU-érettségét. A kérdés az, mehet-e a mór? Ráadásul Románia belső vita és perpatvar nélkül – ahogy ép életösztönű nemzethez illik – megadta a kettős állampolgárságot a Moldáviában élő románoknak. Ma már mi vagyunk az egyetlenek a térségben, akik gazdasági szempontból is irracionális módon megtagadjuk ezt a határainkon túl élő magyaroktól. Szégyenünket Szerbia példája mutatja a legélesebben. Szerbiában élnek horvátok, akiknek Horvátország megadta a horvát állampolgárságot. Élnek szlovákok, akiknek Szlovákia megadta a szlovák állampolgárságot. Élnek románok, akiknek Románia megadta a román állampolgárságot. Csupán mi kezeljük idegenként az amúgy ősidők óta ott élő magyarságot.
+
+– Úgy tetszik, ez ügyben előbb itthon kell rendet teremteni… Hogyan épül a Szövetség?
+– A Magosz csatlakozása értékes, a Vállalkozók Pártja izmosodás előtt áll, a Lungo Drom fölényesen győzött a cigány szervezetek közötti versenyfutásban az önkormányzati választásokon, a Nemzeti Fórum egyre aktívabb, a kisgazdák pedig fontos tanácskozásokon vannak túl. A Fidelitas pedig a jövő garanciája.
+
+– KDNP?
+– A kereszténydemokratákkal való közös munka izgalmas és inspiráló. Egy olyan jelenségről is szó van, amelyet sokáig nem tudtunk elrendezni – magunkban sem. A KDNP szigorúan világnézeti alapon működik. Bár nem lényegtelen számukra, hány voksot kapnak, de nem ez a legfontosabb. Úgy gondolkodnak, "vagyunk, akik vagyunk, kapunk, amennyit kapunk". Elsősorban nem a programjukra, hanem az annak alapját adó világnézetre kérik a támogatást. Ez egyedülálló a magyar politikai életben. Örömmel működöm együtt velük. Sőt néha egy kicsit irigylem is őket. A legnagyobb értékük, hogy úgy képviselik megalkuvás nélkül a saját értékrendjüket, hogy eközben nem válnak ellenségessé a polgári oldal legnagyobb erejével szemben. Nem arra használják energiájukat, hogy másokat kioktassanak. Ilyen értelmes munkamegosztásra a jobboldal eddig csak elvétve volt képes, s ezért tisztelettel adózom Semjén Zsoltnak. A kereszténydemokraták azt is tudják, hogy világnézetük értékeinek hatékony képviselete, a kormányra kerülés csak akkor lehetséges, ha a nagy néppárttal, a Fidesszel stratégiai együttműködést alakítanak ki. De van másik oldala is az éremnek: a Fidesz nem fogad el a velük való egyeztetés nélkül programot és azt is tudja, csak a KDNP által is támogatott elnök képes összefogni a jobboldal erőit, ami minden siker elsőszámú feltétele.
+
+– Továbbra is marad a jelenlegi "párt a pártban" rendszer?
+– Igen, nincs okunk változtatni. Ami nem romlott el, azt nem kell megjavítani.
+
+– Jó érv. Kering önről az interneten egy felvétel a ’80-as évek végéről, ahol azt mondja, a KISZ-ből csak Gyurcsánnyal lehet értelmesen tárgyalni, legfeljebb még Szilvásyval. Ma mit mondana róluk?
+– Ők akkor másodvonalbeli KISZ-esek voltak, a vezető Nagy Imre volt, akinek sokat köszönhetek, mert számos önmarcangoló pillanattól mentett meg. Még az első szabad választások előtt voltunk, amikor a régi parlamentbe a kibukott MSZMP-sek helyére választottak képviselőket. Egy gyűlésen felszólaltam Zalaegerszegen, ahol a Fidesz az MDF jelöltjét támogatta. Ez volt az a gyűlés egyébként, ahol Németh Zsolt emlékezetes, mások által később nekem tulajdonított kijelentését tette: "A kommunistákat agyagba kell döngölni!"
+
+– Ezt Németh Zsolt mondta?
+– Igen. Egy nappal előttünk Nagy Imre kampányolt ott, és azt mondta, őket az az Orbán Viktor ne oktassa ki, aki Oxfordból fehér Mercedesszel jött haza. Holott nem is volt saját autóm. Anyósom 1300-as kölcsön Ladájával jártam az országot, amit rendszeresen kellett reparálnom, hogy egyik helyről a másikra eljussak vele. Akkor tanultam meg igazán, hogy a kommunisták a demokrácia körülményei közepette is mindenre képesek: ha úgy érzik, a hatalom megszerzéséhez az kell, hogy szarvat fessenek a homlokodra, Mercedest toljanak a feneked alá, akkor nem törődve a valósággal, meg is teszik. Ami pedig a kérdésben felemlített személyeket illeti, a legfőbb gond velük az, hogy nem értik: a demokrácia morális alapokon nyugvó rendszer. Vitatható, hogy mely morális elvek adják közös életünk alapjait, ez fontos része a demokráciának, de alapnak lennie kell. Az új milliárdosok arrogáns cinizmusa ezt nem pótolhatja. Sajnos nem állíthatom, hogy erkölcsi szempontból a jobboldaliak hibátlanok lennének, hiszen mi is esendő emberek vagyunk. Ám jelentős különbség, hogy számunkra mindig létezik egy mérce, amellyel megmérjük tetteink súlyát, s ha könnyűnek találtatunk, megpróbálunk visszatalálni a helyes útra. Amikor kereszténydemokráciáról beszélünk, akkor lényegében arról szólunk, hogy kell lennie egy zsinórmértéknek, ami alapján megkülönböztetjük a jót a rossztól. Nem a pártpolitika beszélt belőlem, amikor azt mondtam, hogy a másik oldallal nincs alku. Arról van szó, hogy semmilyen körülmények között nem vagyok hajlandó közreműködni egy olyan világ kiépítésében, ahol a cinizmus az úr, ahol hiányoznak az erkölcsi alapok.
+
+
+Magyar Demokrata - Bencsik András, Bándy Péter 
+<!--
+/*
+Font D
+efinit
+ions
+*/
+@font-
+face
+{font-
+family
+:"Camb
+ria
+Math";
+panose
+-1:2 4
+5 3 5
+4 6 3
+2 4;
+mso-
+font-c
+harset
+:1;
+mso-ge
+neric-
+font-f
+amily:
+roman;
+mso-
+font-f
+ormat:
+other;
+mso-
+font-p
+itch:v
+ariabl
+e;
+mso-
+font-s
+ignatu
+re:0 0
+0 0 0
+0;}
+@font-
+face
+{font-
+family
+:Calib
+ri;
+panose
+-1:2
+15 5 2
+2 2 4
+3 2 4;
+mso-
+font-c
+harset
+:238;
+mso-ge
+neric-
+font-f
+amily:
+swiss;
+mso-
+font-p
+itch:v
+ariabl
+e;
+mso-
+font-s
+ignatu
+re:-16
+106119
+85 107
+375013
+9 0 0
+159
+0;}
+/*
+Style 
+Defini
+tions
+*/   p
+.MsoNo
+rmal, 
+li.Mso
+Normal
+, div.
+MsoNor
+mal
+{mso-
+style-
+unhide
+:no;
+mso-
+style-
+qforma
+t:yes;
+mso-
+style-
+parent
+:"";
+margin
+:0cm;
+margin
+-botto
+m:.000
+1pt;
+mso-pa
+ginati
+on:wid
+ow-orp
+han;
+font-s
+ize:12
+.0pt;
+font-f
+amily:
+"Times
+New Ro
+man","
+serif"
+;
+mso-fa
+reast-
+font-f
+amily:
+Calibr
+i;
+mso-fa
+reast-
+theme-
+font:m
+inor-
+latin;
+mso-fa
+reast-
+langua
+ge:EN-
+US;
+mso-
+bidi-l
+anguag
+e:EN-
+US;}  
+.MsoCh
+pDefau
+lt
+{mso-
+style-
+type:e
+xport-
+only;
+mso-de
+fault-
+props:
+yes;
+mso-
+ascii-
+font-f
+amily:
+Calibr
+i;
+mso-
+ascii-
+theme-
+font:m
+inor-
+latin;
+mso-fa
+reast-
+font-f
+amily:
+Calibr
+i;
+mso-fa
+reast-
+theme-
+font:m
+inor-
+latin;
+mso-
+hansi-
+font-f
+amily:
+Calibr
+i;
+mso-
+hansi-
+theme-
+font:m
+inor-
+latin;
+mso-
+ansi-l
+anguag
+e:EN-
+US;
+mso-fa
+reast-
+langua
+ge:EN-
+US;
+mso-
+bidi-l
+anguag
+e:EN-
+US;}  
+.MsoPa
+pDefau
+lt
+{mso-
+style-
+type:e
+xport-
+only;
+margin
+-botto
+m:10.0
+pt;
+line-h
+eight:
+115%;}
+@page 
+Sectio
+n1
+{size:
+612.0p
+t 792.
+0pt;
+margin
+:70.85
+pt 70.
+85pt 7
+0.85pt
+70.85p
+t;
+mso-he
+ader-m
+argin:
+35.4pt
+;
+mso-fo
+oter-m
+argin:
+35.4pt
+;
+mso-
+paper-
+source
+:0;}  
+div.Se
+ction1
+{page:
+Sectio
+n1;}
+-->
+–
+Jones 
+gazda.
+..  –
+Hm...
+– Schm
+idt
+Mária
+egy, a
+Népsza
+badság
+ban
+közölt
+cikkéb
+en önt
+hasonl
+ította
+hozzá.
+Azzal 
+biztat
+ta a b
+alolda
+liakat
+, hogy
+ne fél
+jenek,
+Jones
+gazda
+nem
+jön vi
+ssza,
+de Gyu
+rcsány
+nak is
+mennie
+kell..
+. –
+Engem
+Orbán 
+Viktor
+nak hí
+vnak,
+és
+ezen e
+gyelőr
+e nem
+is
+akarok
+változ
+tatni.
+–
+Ennyi?
+–
+Talán
+még
+annyi,
+hogy a
+szóban
+forgó
+úr elm
+ent.
+Én nem
+mentem
+el,
+ezért
+nem is
+jöhete
+k viss
+za. Eg
+yszerű
+en
+csak
+itt va
+gyok.
+Teszem
+a dolg
+omat. 
+Kitanu
+ltam
+már az
+ellenf
+él had
+viselé
+sének 
+módsze
+reit.
+Amikor
+valami
+re kés
+zülnek
+,
+akkor
+az ell
+enfele
+t vádo
+lják
+meg
+azzal,
+amit
+ők
+maguk
+tenni 
+akarna
+k.
+Amikor
+válasz
+tási c
+salásr
+a kész
+ülnek,
+megvád
+olnak 
+bennün
+ket,
+hogy t
+örvény
+telenü
+l akar
+juk be
+folyás
+olni
+az ere
+dménye
+ket.
+Amikor
+pedig
+a mi
+belső 
+viszon
+yainka
+t elem
+ezgeti
+k, az
+azt je
+lenti,
+hogy
+baj
+van
+odaát.
+– Ezek
+szerin
+t az
+MSZP G
+yurcsá
+ny
+Ferenc
+eltávo
+lításá
+ra kés
+zül?
+– Kívü
+lről
+nem lá
+thatun
+k bele
+a lapj
+aikba,
+de nem
+is szü
+kséges
+.
+Nekünk
+nem
+rájuk,
+hanem
+az emb
+erekre
+kell f
+igyeln
+ünk.
+Annyit
+biztos
+an mon
+dhatok
+, hogy
+a magy
+arok n
+incsen
+ek és
+nem is
+leszne
+k anny
+ira me
+gbille
+nt mor
+ális á
+llapot
+ban,
+hogy h
+uzamos
+abb
+ideig 
+elvise
+ljék,
+amit a
+jelenl
+egi ko
+rmány
+a korm
+ányfő 
+vezény
+léséve
+l
+művel.
+Amikor
+azt mo
+ndom,
+hogy a
+kormán
+yfőnek
+távozn
+ia
+kell,
+és ez
+csak
+idő ké
+rdése,
+akkor
+több
+száz
+éves s
+zabály
+ok ala
+pján é
+rtékel
+em a h
+elyzet
+et.
+Vele
+már
+nem sz
+ámolun
+k,
+vele
+nincs
+több d
+olgunk
+, legf
+eljebb
+a
+magyar
+balold
+allal.
+– Mit
+ért
+magyar
+balold
+al
+alatt?
+– A me
+ghatár
+ozás t
+örténe
+ti és 
+filozó
+fiai é
+rtelem
+ben po
+ntatla
+n, ugy
+anúgy,
+mint j
+obbold
+alnak 
+nevezn
+i a je
+lenleg
+i elle
+nzéket
+. Ezek
+inkább
+nyelvi
+jelzőr
+akéták
+, hogy
+értsük
+egymás
+gondol
+atait,
+hogy t
+udjuk,
+éppen
+kiről 
+beszél
+ünk. M
+agyaro
+rszágo
+n sajá
+tságos
+helyze
+tbe ke
+rültün
+k. A s
+zocial
+isták
+a Szoc
+ialist
+a Inte
+rnacio
+nálé t
+agjai,
+a
+Fidesz
+pedig
+az eur
+ópai n
+éppárt
+ok uni
+ójának
+tagja.
+Ezért
+itt, M
+agyaro
+rszágo
+n is
+jobb-,
+illetv
+e balo
+ldalia
+knak n
+evezzü
+k
+ezeket
+a párt
+okat,
+de ez 
+gyakra
+n megt
+éveszt
+ő.
+Mondok
+egy je
+llemző
+példát
+. Itt
+van a 
+kisgaz
+dapárt
+hagyom
+ánya,
+amit
+ma egy
+értelm
+űen a 
+jobbol
+dalra 
+soroln
+ak be.
+Ám
+annak
+idején
+plebej
+us érz
+elmű
+párt
+volt, 
+társad
+alompo
+litika
+i prog
+ramjuk
+szembe
+n állt
+a két 
+világh
+áború 
+között
+i jobb
+oldali
+kormán
+yokéva
+l. Ám
+ha azt
+mondan
+ám,
+hogy a
+kisgaz
+dák ha
+gyomán
+ya bal
+oldali
+,
+akkor 
+megköv
+eznéne
+k,
+mert a
+balold
+allal
+sokan
+a komm
+unizmu
+st,
+tehát
+az int
+ernaci
+onaliz
+must
+és az 
+ateizm
+ust az
+onosít
+ják, m
+árpedi
+g a ki
+sgazdá
+k az
+Isten
+és a
+haza n
+evében
+álltak
+szembe
+n a ko
+mmunis
+tákkal
+. Viss
+zatérv
+e a
+mai ba
+loldal
+ra,
+van
+egy do
+kument
+um, am
+elyről
+már
+hosszú
+évek
+óta
+nem ha
+llotta
+m.
+Ha jól
+emléks
+zem, 1
+999-be
+n kész
+ült, S
+zociál
+demokr
+ata
+Charta
+volt a
+címe.
+Ezt a 
+dokume
+ntumot
+a posz
+tkommu
+nisták
+időseb
+b nemz
+edéke 
+fogalm
+azta,
+azzal
+az igé
+nnyel,
+hogy a
+rendsz
+ervált
+oztatá
+s után
+végre 
+világo
+san me
+gmondj
+ák, a
+múlt m
+ellett
+– jogf
+olyton
+osság
+az
+MSZMP-
+vel –
+milyen
+jövőt 
+szeret
+nének 
+építen
+i Magy
+arorsz
+ágon.
+Az
+MSZP-
+nek ez
+a prog
+ramja 
+alapve
+tően b
+alolda
+li
+volt. 
+2004-t
+ől,
+amikor
+a
+fiatal
+szocia
+lista 
+milliá
+rdosok
+elfogl
+alták
+az
+MSZP-t
+– anél
+kül,
+hogy b
+ejelen
+tették
+volna
+–, a S
+zociál
+demokr
+ata Ch
+artát 
+kidobt
+ák az 
+ablako
+n. Ma 
+lényeg
+ében
+egy ne
+oliber
+ális f
+orgató
+könyv 
+alapjá
+n csel
+ekedne
+k. Has
+onló j
+elensé
+g játs
+zódik
+le
+magyar
+változ
+atban,
+mint
+amit
+Tony
+Blair 
+hajtot
+t
+végre 
+Angliá
+ban,
+vagy S
+chröde
+r Néme
+torszá
+gban.
+Az
+ilyen
+– neol
+iberál
+is – v
+áltozá
+st a n
+agytők
+e
+mindig
+üdvözl
+i, úgy
+mondjá
+k, mod
+ernizá
+lódik
+a balo
+ldal,
+a balo
+ldali 
+érzelm
+ű embe
+rek
+pedig 
+minden
+hol
+úgy te
+kintet
+tek
+erre a
+változ
+ásra,
+hogy e
+lárult
+ák
+őket.
+Hiszen
+a
+német 
+szociá
+ldemok
+raták 
+példáu
+l a ha
+gyomán
+yos mu
+nkásvi
+lágot 
+hagytá
+k magá
+ra, né
+gymill
+ió
+fölé
+is szö
+kött a
+munkan
+élküli
+ség. B
+lairék
+Munkás
+pártja
+is a h
+agyomá
+nyos
+munkás
+támoga
+tóit
+hagyta
+maga m
+ögött,
+és glo
+balist
+a
+párttá
+vált. 
+Legfel
+jebb v
+álaszt
+ások
+idején
+kalózk
+odnak
+a balo
+ldali 
+értéke
+kkel, 
+remélv
+e,
+hogy m
+egtart
+hatják
+régi h
+íveike
+t. Ám
+a nyil
+vánval
+ó elle
+ntmond
+ás
+egyre 
+kényel
+metlen
+ebbé
+vált,
+innen
+ered
+az új 
+balold
+al és
+a harm
+adik
+utas p
+olitik
+a elne
+vezés,
+amelyn
+ek vil
+ágkamp
+ányáho
+z a
+még ha
+talomb
+an
+lévő
+Bill C
+linton
+is csa
+tlakoz
+ott.
+– Ha p
+olitik
+ai tev
+ékenys
+égük a
+lapján
+kellen
+e jell
+emezni
+e a ba
+lliber
+ális p
+ártoka
+t,
+akkor
+hogyan
+hívná 
+ezeket
+? – Ma
+gyaror
+szág e
+setébe
+n posz
+tkommu
+nistán
+ak nev
+ezhetj
+ük
+őket. 
+Tudomá
+sul
+veszem
+ugyana
+kkor,
+hogy
+ez az 
+elneve
+zés ér
+telmez
+ésre s
+zorul,
+márped
+ig,
+mint t
+udjuk,
+a
+találó
+elneve
+zések
+nem sz
+orulna
+k érte
+lmezés
+re. Az
+én meg
+oldáso
+m
+tehát
+nem tö
+kélete
+s, de 
+legalá
+bb pon
+tos. A
+magyar
+ország
+i komm
+unistá
+knak
+1956
+után
+egy sa
+játság
+os fej
+lődést
+örténe
+t
+jutott
+osztál
+yrészü
+l, és
+ez meg
+különb
+öztett
+e őket
+a
+többi
+közép-
+európa
+i komm
+unista
+párttó
+l is.
+A forr
+adalom
+az ő s
+zempon
+tjukbó
+l azt 
+jelent
+ette,
+hogy a
+nép fe
+lelőss
+égre
+vonta
+őket m
+indazé
+rt,
+amit e
+lkövet
+tek az
+embere
+k
+ellen.
+Ilyen
+addig
+nem tö
+rtént.
+Sőt
+sehol
+máshol
+sem
+volt
+arra
+példa
+a szov
+jet bi
+rodalo
+mban,
+hogy a
+nép mo
+ndjon 
+ítélet
+et a k
+ommuni
+stákró
+l. Az
+idő rö
+vidség
+e
+miatt
+az els
+zámolt
+atás
+nem
+öltött
+jogi f
+ormát,
+a vála
+sztáso
+kat
+sem ta
+rthatt
+ák
+meg,
+de az 
+ítélet
+et okt
+óber
+23-án 
+kimond
+ták.
+Ez a f
+elelős
+ségre
+vonás
+máig
+ható t
+apaszt
+alata
+a
+magyar
+kommun
+istákn
+ak. Ha
+egy id
+eológi
+a
+fölött
+a nép
+olyan
+nyílt 
+ítélet
+et
+mond,
+mint 1
+956-ba
+n,
+akkor 
+megcsa
+ppan
+azok
+száma,
+akik t
+ovábbr
+a is ő
+szinté
+n
+hinni 
+tudnak
+.    K
+övetke
+zéskép
+pen
+’56
+után
+már
+nem a 
+kommun
+izmus 
+nevébe
+n gyak
+oroltá
+k a ha
+talmat
+,
+hanem
+a hata
+lom ne
+vében.
+"Nincs
+más,
+nem
+lehet
+más al
+ternat
+íva,
+ezért
+az
+lesz v
+eletek
+, amit
+mi aka
+runk."
+Ezért
+a rend
+szervá
+ltás
+nem a
+többi
+közép-
+európa
+i komm
+unista
+pártho
+z haso
+nló MS
+ZMP-t
+talált
+itt,
+hanem
+egy tú
+lélésr
+e bere
+ndezke
+dő, id
+eológi
+amente
+s, hat
+almi k
+onglom
+erátum
+ot. Ez
+magyar
+ázza,
+hogy
+míg a
+többi 
+kommun
+ista
+párt s
+zétese
+tt, át
+alakul
+t, a h
+elyére
+került
+, a
+magyar
+egyben
+maradt
+, és s
+ikeres
+en men
+tette
+át hat
+almi g
+épezet
+ét. Ha
+talmat
+mentet
+tek
+át,
+nem es
+zmét,
+ideát,
+értéke
+ket. H
+atalom
+,
+pénz, 
+cinizm
+us: ez
+az ő r
+ealitá
+suk,
+erre é
+pülnek
+az átm
+entett
+hálóza
+taik
+is.  –
+A besú
+gókra 
+gondol
+?  –
+Jóval 
+többre
+, a re
+ndszer
+változ
+tatás
+előtti
+időből
+áthozo
+tt, s
+ma is
+működő
+gazdas
+ági, p
+olitik
+ai, ku
+lturál
+is,
+média
+és tit
+kosszo
+lgálat
+i érde
+kszöve
+tségek
+re.
+– Októ
+ber
+23-án 
+azonba
+n kide
+rült,
+hogy a
+polgár
+i elég
+edetle
+nség e
+gyelőr
+e nem
+túl ha
+tékony
+a háló
+zattal
+szembe
+n. Bár
+a balo
+ldal m
+orális
+értele
+mben v
+esztet
+t, a p
+olgári
+ellenz
+ék nem
+győzöt
+t.
+Lehet 
+demokr
+atikus
+eszköz
+ökkel
+nyerni
+egy
+ilyen 
+hálóza
+t elle
+nében?
+– Ma
+az a h
+elyzet
+, hogy
+van
+egy cs
+alássa
+l, az 
+embere
+k megt
+éveszt
+ésével
+hatalo
+mra ju
+tott, 
+illegi
+tim ko
+rmány.
+A
+csalás
+a való
+ság me
+gismer
+éséhez
+fűződő
+jog me
+gtagad
+ását, 
+ezálta
+l a
+szabad
+döntés
+jogána
+k elvé
+telét 
+jelent
+i. A k
+ormány
+pártok
+maguk
+is bei
+smerik
+, hogy
+csak
+egy ha
+zugság
+kampán
+nyal s
+ikerül
+t hata
+lmon m
+aradni
+uk.
+Olyan 
+helyze
+tbe
+hozták
+az emb
+ereket
+,
+mintha
+bekötö
+tt sze
+mmel k
+ellett
+volna 
+voksol
+niuk.
+Ennek
+súlyos
+követk
+ezmény
+ei let
+tek. K
+iderül
+t,
+hogy
+miután
+évekig
+nem ko
+rmányo
+ztak, 
+gazdas
+ági
+válság
+alakul
+t ki,
+és
+ennek
+súlyos
+árát
+az emb
+erekke
+l akar
+ják me
+gfizet
+tetni.
+Ez az
+ár
+borsos
+lesz,
+számos
+család
+ot
+sodor
+majd m
+egélhe
+tési v
+álságb
+a. Érd
+emes s
+zétvál
+asztan
+unk,
+hogy
+mit vá
+laszol
+hat
+erre a
+helyze
+tre a
+nép,
+és mit
+válasz
+olhatn
+ak az 
+alkotm
+ányos 
+jogren
+dre fe
+lesküd
+ött né
+pképvi
+selők.
+A népn
+ek, ha
+csak
+nem ak
+arja,
+hogy
+újra
+és
+újra k
+iforga
+ssák a
+zsebei
+t, az
+lehet
+a vála
+sza,
+hogy e
+lkerge
+ti azo
+kat,
+akik
+ezt a 
+helyze
+tet el
+őidézt
+ék. Az
+oknak
+a felh
+áborod
+ása
+tehát,
+akik ő
+szszel
+ezt kö
+vetelt
+ék, ér
+thető
+és
+jogos.
+Az elé
+gedetl
+enség 
+azonba
+n ma
+még
+nem ti
+sztázo
+tt oko
+kból
+szinte
+azonna
+l erős
+zakba 
+fordul
+t át. 
+Márped
+ig a h
+azugsá
+gra az
+erősza
+k
+rossz 
+válasz
+. Hogy
+kinek
+állt é
+rdekéb
+en a
+jogos 
+eléged
+etlens
+éget e
+rőszak
+ba for
+dítani
+, arra
+előbb-
+utóbb 
+megkap
+juk a 
+válasz
+t.   –
+És
+addig?
+– Az
+erő és
+az erő
+szak
+nem ke
+verend
+ő öszs
+ze. Az
+erős
+ember
+nem er
+őszako
+s. Az 
+erősza
+kosság
+gyakra
+n a gy
+engesé
+g lepl
+ezését
+szolgá
+lja. A
+Fidesz
+nek az
+a fela
+data,
+hogy m
+egtere
+mtsük
+azt a 
+lehető
+séget,
+aminek
+segíts
+égével
+erősza
+k
+nélkül
+fejezh
+etjük
+ki azt
+a népi
+erőt, 
+amelly
+el elm
+ozdíth
+ató a 
+csalás
+sal ha
+talomr
+a
+jutott
+koalíc
+ió. Is
+métlem
+, a ko
+rmányt
+csak a
+nép tá
+volíth
+atja
+el.
+Mivel
+az elé
+gedetl
+enségn
+ek
+kettős
+gyöker
+e van
+– egy 
+szociá
+lis és
+egy po
+litika
+i term
+észetű
+,
+vagyis
+a megé
+lhetés
+i
+válság
+és a d
+emokrá
+cia cs
+onkolá
+sa –,
+ezért
+olyan 
+formák
+at
+kell t
+alálnu
+nk, am
+elyekk
+el
+mind a
+politi
+kai,
+mind
+pedig
+a szoc
+iális 
+eléged
+etlens
+ég kif
+ejezhe
+tő.
+– Péld
+ául?
+– A né
+pszava
+zás. A
+hét ké
+rdésün
+ket is
+ennek 
+szelle
+mében 
+állíto
+ttuk
+össze.
+– Kezd
+eménye
+zésüke
+t azon
+ban le
+söpört
+e az O
+rszágo
+s Vála
+sztási
+Bizott
+ság...
+– Az
+OVB sz
+akmail
+ag elf
+ogadha
+tatlan
+, poli
+tikail
+ag
+pedig 
+elfogu
+lt dön
+tést h
+ozott.
+Ezért 
+fordul
+tunk
+az Alk
+otmány
+bírósá
+ghoz.
+Hiszek
+abban,
+hogy
+itt
+olyan 
+határo
+zat sz
+ületik
+,
+amely 
+kiállj
+a a po
+litika
+i elfo
+gulatl
+anság
+és a t
+örvény
+esség 
+próbáj
+át. A 
+népsza
+vazáss
+al, am
+ennyib
+en az 
+elképz
+elései
+nknek 
+megfel
+elően 
+megtar
+tható
+lesz, 
+felkín
+áljuk
+az emb
+erekne
+k a le
+hetősé
+get,
+hogy a
+jövőrő
+l
+szóló 
+értelm
+es vit
+ában v
+ehesse
+nek
+részt.
+Ez a
+mi vál
+aszunk
+a korm
+ányzat
+hazugs
+ágára,
+a csal
+ásra.
+– A ra
+dikáli
+sok
+éppen
+ezt
+vetik
+a Fide
+sz, il
+letve 
+személ
+yesen
+az ön 
+szemér
+e,
+hogy
+ha egy
+szer a
+másik
+oldal
+nem ra
+gaszko
+dik a 
+törvén
+yes ke
+retekh
+ez,
+akkor
+önök
+miért
+nem al
+kalmaz
+nak ke
+ményeb
+b eszk
+özöket
+? – Ké
+tfajta
+út lét
+ezik:
+a forr
+adalmi
+és az 
+alkotm
+ányos.
+A forr
+adalmi
+útra
+lépés
+olyan 
+követk
+ezmény
+ekkel
+járna,
+amit p
+ropagá
+lói
+nem tu
+dnak,
+vagy
+nem ak
+arnak 
+belátn
+i. Az 
+erősza
+k kock
+ázatán
+túl ga
+zdaság
+i megr
+endülé
+s, és
+a
+forint
+összeo
+mlása
+is kéz
+zelfog
+ható k
+özelsé
+gbe ke
+rülhet
+. Amíg
+van
+esély
+arra,
+hogy
+az alk
+otmány
+os út 
+eredmé
+nyhez 
+vezeth
+et, já
+rjunk
+inkább
+azon.
+Látok
+arra e
+sélyt,
+hogy
+ez az
+út – a
+népsza
+vazás
+– ered
+ményes
+lehet.
+Megért
+em az 
+indula
+tokat
+is. Me
+gértem
+, hogy
+sokan
+kezdik
+egyre
+inkább
+elvesz
+íteni
+a türe
+lmüket
+,
+sokan
+érzik
+úgy,
+hogy
+az
+egyre
+romló 
+közáll
+apotok
+már ki
+bírhat
+atlano
+k,
+sokan 
+látják
+,
+amint 
+kifosz
+tják, 
+eladós
+ítják
+az ors
+zágot,
+sőt
+már a 
+gyerme
+keink 
+jövőjé
+t is e
+lzálog
+osítjá
+k. S
+közben
+a szoc
+ialist
+a mill
+iárdos
+ok ban
+kszáml
+ái
+egyre 
+híznak
+, juta
+lmakat
+fizetn
+ek egy
+másnak
+, mikö
+zben t
+önkret
+ették
+az ors
+zágot,
+kormán
+yzati 
+luxusn
+egyede
+ken és
+ingatl
+anspek
+uláció
+kon
+jár az
+eszük,
+miközb
+en tan
+díjat,
+vizitd
+íjat v
+ezetne
+k be,
+az
+égbe
+emelik
+az ára
+kat, s
+család
+ok szá
+zezrei
+t jutt
+atják 
+megélh
+etési 
+válság
+ba.
+–
+Láttuk
+önt és
+politi
+kustár
+sait n
+ovembe
+r negy
+edikén
+, a bu
+dapest
+i fákl
+yás
+menet
+élén. 
+Feszül
+t volt
+az
+arcuk.
+Mi
+volt a
+tét? –
+Fontos
+nap
+volt, 
+nemcsa
+k a po
+litiká
+ban,
+az én 
+életem
+ben
+is. Ok
+tóber 
+huszon
+harmad
+ikán f
+ordult
+elő el
+őször
+ötven
+év
+óta,
+hogy a
+hatalo
+m megv
+erette
+a
+saját
+népét,
+a
+nyílt
+utcán.
+Mindan
+nyian
+úgy ér
+eztük,
+hogy b
+osszút
+állnak
+’56-ér
+t, bos
+szút á
+llnak,
+mert
+’56
+nem
+enged
+a megh
+amisít
+ási kí
+sérlet
+eknek,
+hanem
+marad,
+ami
+volt,
+az iga
+zság f
+elemel
+ő pill
+anata.
+Úgy go
+ndolta
+m, ezt
+nem
+lehet 
+annyib
+an hag
+ynunk.
+Meg
+kell m
+utatnu
+nk,
+hogy m
+egverh
+etnek
+ugyan,
+de nem
+győzhe
+tnek
+le ben
+nünket
+. Volt
+kockáz
+ata a 
+menetn
+ek,
+hiszen
+októbe
+r 23-a
+után
+senki
+sem tu
+dhatta
+, most
+mire
+kaptak
+politi
+kai ut
+asítás
+t a ké
+szsége
+s rend
+őri ve
+zetők.
+Bár mi
+ndenki
+szabad
+akarat
+ából,
+saját 
+felelő
+sségér
+e jött
+el, de
+mégisc
+sak én
+hívtam
+őket. 
+Feleme
+lő és 
+megerő
+sítő
+is
+volt,
+amit á
+téltem
+.  Én 
+rendsz
+ervált
+ó poli
+tikusk
+ént ke
+rültem
+a közé
+letbe.
+Annak 
+idején
+, a ny
+olcvan
+as
+évek m
+ásodik
+felébe
+n
+azért 
+kezdtü
+nk sze
+rvezke
+dni,
+azért
+hoztuk
+létre
+a Fide
+szt,
+mert
+úgy go
+ndoltu
+k,
+hogy t
+örténe
+lmi
+esély
+nyílt
+a dikt
+atúra 
+megbon
+tására
+és a n
+emzeti
+függet
+lenség
+vissza
+szerzé
+sére.
+Hittem
+abban,
+hogy
+ugyan
+a XX. 
+század
+ot elv
+eszíte
+ttük,
+de a
+XXI. s
+zázado
+t megn
+yerhet
+jük.
+Nos, n
+ovembe
+r negy
+edikén
+újra
+úgy ér
+ezhett
+ük mag
+unkat,
+mint a
+rendsz
+ervált
+oztatá
+s hajn
+alán,
+nem
+voltak
+vezető
+k és v
+ezetet
+tek.
+Sok tí
+zezer
+ember
+azért
+volt e
+gyütt,
+mert ö
+sszeta
+rtotta
+őket
+egy
+közös 
+akarat
+.   –
+Félt?
+– A ko
+mmunis
+ta szo
+vjet b
+irodal
+om öss
+zeomlá
+sa a h
+etvene
+s évek
+végén
+úgy ke
+zdődöt
+t,
+hogy
+II.
+János
+Pál
+azt
+mondta
+Lengye
+lorszá
+gban e
+gymill
+ió
+ember
+előtt 
+misézv
+e: "ne
+féljet
+ek!",
+ami
+nem
+azt je
+lentet
+te,
+hogy
+"ne
+volna
+rá oko
+tok".
+Hanem
+azt,
+hogy
+"arra
+is jó
+okotok
+van,
+hogy
+ne fél
+jetek.
+Nektek
+kell d
+öntene
+tek."
+Aki vi
+haros 
+politi
+kai es
+eménye
+kben
+vesz
+részt,
+tanulj
+a meg
+ezt az
+igazsá
+got.
+Aki
+nem
+fél,
+az
+bátor
+sem
+lehet,
+hiszen
+a báto
+rság a
+félele
+m legy
+őzéséb
+ől
+ered.
+–
+Együtt
+volt m
+indenk
+i.
+Szép
+volt v
+alóban
+. Az
+év
+végén 
+azonba
+n fele
+rősödö
+tt egy
+vita
+arról,
+hogy
+mi a
+jobb s
+tratég
+ia:
+együtt
+vagy
+külön?
+– A jo
+bbolda
+l megt
+alálta
+azt a 
+szerke
+zetet,
+aminek
+segíts
+égével
+mindig
+győzel
+mi esé
+lylyel
+lép
+fel a 
+válasz
+tásoko
+n. Ezt
+bizony
+ítja
+az önk
+ormány
+zati v
+álaszt
+ás ere
+dménye
+is.
+Nem mo
+ndom,
+hogy
+mindig
+győzün
+k, de
+az esé
+lyünk
+mindig
+megvan
+a sike
+rre.
+Ne fel
+ejtsük
+: a po
+sztkom
+munist
+ák
+egyben
+tartjá
+k magu
+kat.
+Nem mo
+ndják,
+de ott
+is műk
+ödik
+az egy
+a
+tábor,
+egy a 
+zászló
+.
+Semmi
+okunk
+arra,
+hogy
+az egy
+séges 
+ellenf
+éllel 
+szembe
+n dara
+bokra
+vágjuk
+magunk
+at. Az
+európa
+i népp
+ártok 
+többsé
+ge is
+a mi u
+tunkat
+járja.
+Ám
+hadd m
+ondjak
+egy eg
+yszerű
+bb
+dolgot
+is. Ha
+a
+másik
+oldal,
+vagyis
+az ell
+enfelü
+nk tan
+ácsol 
+valami
+t,
+akkor 
+érdeme
+s
+annak
+az ell
+enkező
+jét te
+nnünk,
+hiszen
+nyilvá
+nvalóa
+n
+saját 
+érdeke
+ik sze
+rint o
+sztoga
+tják a
+tanács
+aikat.
+Ők
+mindig
+azt mo
+ndják,
+váljun
+k
+szét,
+mert
+az jó,
+az egé
+szsége
+s. Ha
+így
+van,
+miért
+nem
+kezdik
+maguko
+n? Jár
+janak
+elől
+jó pél
+dával,
+ha kom
+olyan 
+gondol
+ják.
+Mi
+együtt
+fogunk
+maradn
+i.  –
+A köze
+lmúltb
+an Győ
+rben t
+artott
+kongre
+szszus
+t a Fi
+desz,
+ahol l
+étrejö
+tt az 
+Önkorm
+ányzat
+i Képv
+iselők
+Fóruma
+.
+Miért
+volt
+ez fon
+tos? –
+Az önk
+ormány
+zati v
+álaszt
+ásokon
+olyan
+tér
+nyílt
+meg a 
+jobbol
+dal
+előtt,
+amelyn
+ek jel
+entősé
+gét a
+mai
+napig
+is
+alig
+tudtuk
+felbec
+sülni.
+Kétség
+telen,
+hogy
+az önk
+ormány
+zatoka
+t kivé
+reztet
+ték.
+Abban
+sincs
+vita,
+hogy a
+szocia
+lista 
+parlam
+enti k
+épvise
+lők a 
+költsé
+gvetés
+i dönt
+ésükke
+l az ö
+nkormá
+nyzato
+kat ki
+szolgá
+ltattá
+k a ko
+rmányn
+ak. De
+mégisc
+sak az
+élet
+igazi 
+színte
+rei – 
+iskolá
+k, kór
+házak,
+szociá
+lis ot
+thonok
+, kult
+urális
+intézm
+ények
+– az ö
+nkormá
+nyzato
+k tula
+jdonáb
+an áll
+nak. R
+áadásu
+l örök
+lött h
+álózat
+aiknak
+köszön
+hetően
+eddig
+a
+másik
+oldal
+ott
+volt
+szinte
+minden
+hol,
+mi
+nem.
+Most
+ez meg
+változ
+ott.
+Mindez
+új per
+spektí
+vát
+nyit
+meg el
+őttünk
+. Szám
+talan 
+városb
+an és 
+faluba
+n
+végre
+nem el
+lenzék
+ben le
+szünk,
+hanem 
+alkoth
+atunk,
+építke
+zhetün
+k, ami
+sokkal
+többet
+jelent
+, mint
+hogy a
+parlam
+entben
+vitatk
+ozunk
+a szoc
+ialist
+ákkal.
+Kiprób
+álhatu
+nk
+számos
+fontos
+kezdem
+ényezé
+st,
+amit k
+ésőbb,
+egy or
+szággy
+űlési 
+válasz
+tási
+siker
+után k
+ormány
+pártké
+nt ors
+zágos 
+mérete
+kben
+is eli
+ndítha
+tunk. 
+Egyébk
+ént 19
+98-ban
+is
+azért 
+tudtun
+k visz
+onylag
+gördül
+ékenye
+n neki
+látni
+a munk
+ának,
+mert
+számos
+intézk
+edést
+már te
+sztelh
+ettünk
+néhány
+fidesz
+es vez
+etésű 
+városb
+an az
+előző 
+ciklus
+ban.
+Erre k
+észülü
+nk
+most
+is,
+csak
+sokkal
+több t
+elepül
+ésen.
+– Az e
+llenfe
+lei
+erre
+azt mo
+ndják,
+egy
+kézben
+akarja
+tartan
+i az i
+rányít
+ást az
+önkorm
+ányzat
+ok fel
+ett...
+- Ezt
+még
+egy mi
+niszte
+relnök
+sem
+tudja 
+megten
+ni. Az
+önkorm
+ányzat
+okat
+az alk
+otmány
+os
+rend
+és a
+helyi 
+sajáto
+sságok
+miatt
+nem
+lehet
+egy kö
+zpontb
+ól irá
+nyítan
+i.  –
+A balo
+ldal,
+ha
+szabad
+így fo
+galmaz
+nunk,
+nagyon
+intell
+igense
+n reag
+ált a 
+polgár
+i össz
+efogás
+válasz
+tási s
+ikerér
+e,
+mert
+az
+uniós
+pénzek
+eloszt
+ására
+új fór
+umot
+hozott
+létre.
+Mi a v
+élemén
+ye
+erről?
+–
+Lehet
+ezt in
+tellig
+ens lé
+pésnek
+nevezn
+i,
+mert
+ha úgy
+vesszü
+k,
+igazán
+gonosz
+is
+csak
+az
+lehet,
+aki in
+tellig
+ens.
+Ismét 
+szembe
+fordul
+tak a 
+válasz
+tók ak
+aratáv
+al. El
+vettek
+eszköz
+öket a
+zoknak
+az önk
+ormány
+zatokn
+ak a k
+ezéből
+, amel
+yek ve
+zetői 
+élvezi
+k a te
+lepülé
+seken
+élők b
+izalmá
+t. Ez
+nyílt 
+kijáts
+zása a
+demokr
+atikus
+alapok
+on
+működő
+önkorm
+ányzat
+i rend
+szerne
+k. Oda
+jutott
+unk,
+hogy a
+ntidem
+okrati
+kus tö
+rekvés
+eiket
+most
+már ny
+íltan 
+vállal
+ják:
+nem ti
+tkoljá
+k péld
+ául,
+hogy
+fel ak
+arják 
+számol
+ni a m
+egyéke
+t,
+pedig
+az emb
+erek
+az önk
+ormány
+zati v
+álaszt
+áson k
+iállta
+k a me
+gyéik 
+mellet
+t.  –
+Az
+unióra
+hivatk
+oznak,
+a régi
+ókra.
+– A pé
+nzelos
+ztásna
+k
+semmi
+köze
+az rég
+iókhoz
+. Van
+olyan 
+ország
+,
+amely 
+egyetl
+en rég
+ióból
+áll,
+és
+van,
+ahol
+sok
+régiót
+hoztak
+létre.
+Szerin
+tem az
+a legf
+ontosa
+bb,
+hogy a
+döntés
+eket
+minél 
+közele
+bb
+vigyük
+az emb
+erekhe
+z. Ők
+éppen
+az ell
+enkező
+jét te
+szik.
+Ne leg
+yenek 
+illúzi
+óink:
+szó
+sincs
+itt re
+formró
+l,
+vagy a
+köziga
+zgatás
+korsze
+rűsíté
+séről,
+az
+egész
+mögött
+nyers 
+pénzüg
+yi érd
+ekek h
+úzódna
+k.
+Arról
+van
+szó,
+hogy a
+magyar
+oknak
+járó n
+yolcez
+er mil
+liárd 
+forint
+ra
+hogyan
+tudják
+rátenn
+i a ke
+züket.
+Azt se
+felejt
+sük
+el,
+hogy
+saját 
+bevall
+ásuk s
+zerint
+már el
+költöt
+tek
+1800 m
+illiár
+d fori
+ntot.
+Hová
+került
+ez a t
+emérde
+k
+pénz,
+miért
+nem lá
+tszik
+az
+ország
+állapo
+tán?
+– Megs
+zorítá
+sok...
+–
+Nehéz
+ezt me
+gmagya
+rázni,
+amikor
+ennyi
+pénz é
+rkezik
+,
+miért
+nem a 
+legfon
+tosabb
+ra, az
+embere
+kre, n
+épegés
+zségüg
+yre, o
+ktatás
+ra, sz
+akképz
+ésre f
+ordítj
+uk ezt
+a pára
+tlan l
+ehetős
+éget.
+A szoc
+ialist
+ák gig
+antomá
+n nagy
+beruhá
+zásoka
+t akar
+nak, k
+özpont
+i megb
+ízások
+kal, k
+özpont
+ból sz
+étoszt
+ott me
+grende
+lésekk
+el. Ki
+jár
+jól
+ezzel?
+– Mikö
+zben a
+Szövet
+ség
+itthon
+ellenz
+ékben
+van, a
+Európa
+i Parl
+amentb
+en a k
+onzerv
+atív
+oldal
+adja a
+többsé
+get.
+Hogyan
+lehetn
+e ráir
+ányíta
+ni a f
+igyelm
+et
+arra,
+hogy
+mi tör
+ténik 
+nálunk
+? – Br
+üsszel
+nem Mo
+szkva.
+Az EU
+nem av
+atkozi
+k be, 
+legfel
+jebb v
+élemén
+yt
+mond, 
+észrev
+ételez
+. Magy
+arorsz
+ág
+uniós 
+tagors
+zágkén
+t is k
+ialakí
+that
+egy
+mélyen
+antide
+mokrat
+ikus r
+endsze
+rt, az
+EU
+mégsem
+fog va
+lamifé
+le jó 
+Moszkv
+aként
+rendet
+tenni.
+A
+magyar
+ügy az
+a magy
+arok
+ügye.
+A
+másik 
+dimenz
+iója a
+zonban
+legalá
+bb
+olyan
+fontos
+az
+uniós 
+tagság
+nak,
+mint a
+demokr
+ácia i
+tthoni
+állapo
+ta.
+Nehéz 
+ugyani
+s nem 
+észrev
+enni, 
+fenyeg
+et a v
+eszély
+, hogy
+vissza
+soroln
+ak ben
+nünket
+az
+orosz 
+érdeks
+zféráb
+a.
+Most
+ez nem
+katona
+i megs
+zállás
+t,
+hanem 
+gazdas
+ági ér
+dekszf
+érába 
+sorolá
+st jel
+enthet
+. A ko
+rmány
+ezt a 
+veszél
+yt
+vagy
+nem ér
+zékeli
+, vagy
+nem ag
+gasztj
+a, sőt
+mintha
+elő is
+segíte
+né ezt
+a vesz
+edelme
+s foly
+amatot
+. Az e
+nergia
+függős
+ég kul
+cskérd
+és
+lesz a
+követk
+ező év
+ekben,
+Európa
+energi
+aéhség
+e óriá
+si.
+Olyan
+hol
+nyílt,
+hol
+titkos
+megáll
+apodás
+ok köt
+tetnek
+, amel
+yek Ma
+gyaror
+szágot
+Oroszo
+rszág 
+előret
+olt ga
+zdaság
+i bást
+yájává
+teheti
+k.
+Kelet
+felől
+nézve
+mi vag
+yunk
+az
+utolsó
+olyan 
+ország
+, ahol
+az
+állam 
+lemond
+ott a 
+nemzet
+straté
+giai
+és nem
+zetbiz
+tonság
+i szem
+pontbó
+l felb
+ecsülh
+etetle
+n
+értékű
+közell
+átási 
+rendsz
+erek t
+ulajdo
+náról.
+Tőlünk
+nyugat
+ra ez
+nem le
+hetség
+es.
+Tegyük
+világo
+ssá:
+nem ak
+arunk
+a Gazp
+rom le
+gvidám
+abb ba
+rakkja
+lenni!
+– Mit
+hoz Ro
+mánia 
+csatla
+kozása
+? –
+Nehéz 
+döntés
+t
+hozott
+az
+unió.
+A
+román
+tagság
+kockáz
+atai t
+ekinté
+lyesek
+; már
+most m
+integy
+háromm
+illió
+román 
+dolgoz
+ik az
+unió t
+agorsz
+ágaiba
+n, els
+ősorba
+n a me
+diterr
+án tér
+ségben
+. Tört
+énik
+ez
+akkor,
+amikor
+az EU
+nem
+tudja 
+rászán
+ni
+magát
+olyan 
+gazdas
+ágpoli
+tikára
+, amel
+ynek k
+özéppo
+ntjába
+n új m
+unkahe
+lyek t
+eremté
+se
+állna.
+Úgy
+tűnik,
+Románi
+a, sze
+mben M
+agyaro
+rszágg
+al, él
+majd
+azzal
+a tört
+énelmi
+lehető
+séggel
+, amit
+az
+uniós
+tagság
+kínál
+és
+képes
+lesz v
+iharos
+gyorsa
+sággal
+növeke
+dni és
+erősöd
+ni. Az
+Erdély
+ben
+élő ma
+gyarok
+szorul
+t hely
+zetbe 
+juthat
+nak.
+Az
+RMDSZ,
+mint a
+mór, m
+egtett
+e köte
+lesség
+ét,
+örökös
+kormán
+ypártk
+ént bi
+zonyít
+otta a
+román 
+demokr
+ácia
+és kis
+ebbség
+politi
+ka EU-
+éretts
+égét.
+A
+kérdés
+az, me
+het-e
+a mór?
+Ráadás
+ul Rom
+ánia
+belső
+vita
+és per
+patvar
+nélkül
+–
+ahogy
+ép éle
+tösztö
+nű nem
+zethez
+illik
+– mega
+dta a
+kettős
+államp
+olgárs
+ágot a
+Moldáv
+iában
+élő ro
+mánokn
+ak. Ma
+már mi
+vagyun
+k az e
+gyetle
+nek a 
+térség
+ben,
+akik g
+azdasá
+gi sze
+mpontb
+ól is 
+irraci
+onális
+módon 
+megtag
+adjuk
+ezt a 
+határa
+inkon
+túl
+élő ma
+gyarok
+tól. S
+zégyen
+ünket 
+Szerbi
+a péld
+ája mu
+tatja
+a legé
+lesebb
+en. Sz
+erbiáb
+an
+élnek 
+horvát
+ok, ak
+iknek 
+Horvát
+ország
+megadt
+a a
+horvát
+államp
+olgárs
+ágot.
+Élnek 
+szlová
+kok, a
+kiknek
+Szlová
+kia me
+gadta
+a szlo
+vák ál
+lampol
+gárság
+ot.
+Élnek 
+románo
+k, aki
+knek R
+ománia
+megadt
+a a
+román 
+államp
+olgárs
+ágot.
+Csupán
+mi kez
+eljük 
+idegen
+ként
+az
+amúgy
+ősidők
+óta
+ott
+élő ma
+gyarsá
+got.
+– Úgy 
+tetszi
+k, ez
+ügyben
+előbb
+itthon
+kell
+rendet
+teremt
+eni…
+Hogyan
+épül a
+Szövet
+ség? –
+A
+Magosz
+csatla
+kozása
+értéke
+s, a V
+állalk
+ozók
+Pártja
+izmoso
+dás
+előtt
+áll, a
+Lungo
+Drom f
+ölénye
+sen gy
+őzött
+a
+cigány
+szerve
+zetek 
+között
+i vers
+enyfut
+ásban
+az önk
+ormány
+zati v
+álaszt
+ásokon
+, a Ne
+mzeti
+Fórum
+egyre 
+aktíva
+bb, a 
+kisgaz
+dák
+pedig
+fontos
+tanács
+kozáso
+kon
+vannak
+túl. A
+Fideli
+tas
+pedig
+a jövő
+garanc
+iája.
+–
+KDNP?
+– A ke
+reszté
+nydemo
+kraták
+kal
+való
+közös
+munka 
+izgalm
+as és 
+inspir
+áló.
+Egy
+olyan 
+jelens
+égről
+is szó
+van, a
+melyet
+sokáig
+nem tu
+dtunk 
+elrend
+ezni –
+magunk
+ban
+sem. A
+KDNP s
+zigorú
+an vil
+ágnéze
+ti
+alapon
+működi
+k. Bár
+nem lé
+nyegte
+len sz
+ámukra
+, hány
+voksot
+kapnak
+, de
+nem ez
+a legf
+ontosa
+bb.
+Úgy go
+ndolko
+dnak, 
+"vagyu
+nk,
+akik v
+agyunk
+, kapu
+nk, am
+ennyit
+kapunk
+". Els
+ősorba
+n nem
+a prog
+ramjuk
+ra,
+hanem
+az
+annak 
+alapjá
+t adó 
+világn
+ézetre
+kérik
+a támo
+gatást
+. Ez e
+gyedül
+álló a
+magyar
+politi
+kai él
+etben.
+Örömme
+l műkö
+döm
+együtt
+velük.
+Sőt
+néha
+egy
+kicsit
+irigyl
+em is
+őket.
+A legn
+agyobb
+értékü
+k,
+hogy
+úgy ké
+pvisel
+ik meg
+alkuvá
+s
+nélkül
+a
+saját 
+értékr
+endjük
+et,
+hogy e
+közben
+nem
+válnak
+ellens
+égessé
+a polg
+ári
+oldal 
+legnag
+yobb e
+rejéve
+l szem
+ben.
+Nem
+arra h
+asznál
+ják en
+ergiáj
+ukat,
+hogy m
+ásokat
+kiokta
+ssanak
+.
+Ilyen 
+értelm
+es mun
+kamego
+sztásr
+a a jo
+bbolda
+l
+eddig
+csak e
+lvétve
+volt
+képes,
+s
+ezért 
+tiszte
+lettel
+adózom
+Semjén
+Zsoltn
+ak. A 
+keresz
+tényde
+mokrat
+ák azt
+is tud
+ják,
+hogy v
+ilágné
+zetük 
+értéke
+inek h
+atékon
+y képv
+iselet
+e, a k
+ormány
+ra ker
+ülés
+csak
+akkor 
+lehets
+éges,
+ha a
+nagy n
+éppárt
+tal, a
+Fidess
+zel st
+ratégi
+ai egy
+üttműk
+ödést 
+alakít
+anak
+ki. De
+van
+másik
+oldala
+is az 
+éremne
+k: a
+Fidesz
+nem
+fogad
+el a
+velük
+való e
+gyezte
+tés
+nélkül
+progra
+mot és
+azt is
+tudja,
+csak a
+KDNP
+által
+is tám
+ogatot
+t
+elnök
+képes 
+összef
+ogni a
+jobbol
+dal
+erőit,
+ami
+minden
+siker 
+elsősz
+ámú fe
+ltétel
+e.  – 
+Tovább
+ra is
+marad
+a jele
+nlegi
+"párt
+a párt
+ban" r
+endsze
+r? –
+Igen,
+nincs
+okunk 
+változ
+tatni.
+Ami
+nem ro
+mlott
+el,
+azt
+nem
+kell m
+egjaví
+tani.
+– Jó
+érv.
+Kering
+önről
+az int
+ernete
+n egy 
+felvét
+el a
+’80-as
+évek v
+égéről
+, ahol
+azt mo
+ndja,
+a
+KISZ-
+ből
+csak G
+yurcsá
+nnyal
+lehet 
+értelm
+esen t
+árgyal
+ni, le
+gfelje
+bb még
+Szilvá
+syval.
+Ma mit
+mondan
+a
+róluk?
+– Ők
+akkor 
+másodv
+onalbe
+li
+KISZ-
+esek v
+oltak,
+a
+vezető
+Nagy
+Imre
+volt,
+akinek
+sokat 
+köszön
+hetek,
+mert
+számos
+önmarc
+angoló
+pillan
+attól 
+mentet
+t meg.
+Még az
+első
+szabad
+válasz
+tások
+előtt 
+voltun
+k,
+amikor
+a régi
+parlam
+entbe
+a kibu
+kott
+MSZMP-
+sek he
+lyére 
+válasz
+tottak
+képvis
+előket
+. Egy 
+gyűlés
+en fel
+szólal
+tam Za
+laeger
+szegen
+, ahol
+a
+Fidesz
+az MDF
+jelölt
+jét tá
+mogatt
+a. Ez
+volt
+az a
+gyűlés
+egyébk
+ént,
+ahol
+Németh
+Zsolt 
+emléke
+zetes,
+mások
+által
+később
+nekem 
+tulajd
+onítot
+t kije
+lentés
+ét
+tette:
+"A kom
+munist
+ákat a
+gyagba
+kell d
+öngöln
+i!"  –
+Ezt
+Németh
+Zsolt 
+mondta
+? –
+Igen.
+Egy
+nappal
+előttü
+nk
+Nagy
+Imre k
+ampány
+olt
+ott,
+és azt
+mondta
+, őket
+az az
+Orbán
+Viktor
+ne okt
+assa
+ki,
+aki Ox
+fordbó
+l
+fehér 
+Merced
+esszel
+jött
+haza.
+Holott
+nem is
+volt
+saját
+autóm.
+Anyóso
+m 1300
+-as kö
+lcsön 
+Ladájá
+val
+jártam
+az ors
+zágot,
+amit r
+endsze
+resen 
+kellet
+t repa
+rálnom
+, hogy
+egyik 
+helyrő
+l a má
+sikra 
+eljuss
+ak
+vele.
+Akkor 
+tanult
+am meg
+igazán
+, hogy
+a komm
+unistá
+k a de
+mokrác
+ia kör
+ülmény
+ei köz
+epette
+is min
+denre 
+képese
+k: ha
+úgy
+érzik,
+a hata
+lom me
+gszerz
+éséhez
+az
+kell,
+hogy s
+zarvat
+fessen
+ek a h
+omloko
+dra, M
+ercede
+st tol
+janak
+a fene
+ked
+alá,
+akkor
+nem tö
+rődve
+a való
+sággal
+, meg
+is tes
+zik.
+Ami
+pedig
+a kérd
+ésben 
+feleml
+ített 
+személ
+yeket 
+illeti
+, a le
+gfőbb
+gond
+velük
+az,
+hogy
+nem
+értik:
+a demo
+krácia
+moráli
+s alap
+okon
+nyugvó
+rendsz
+er. Vi
+tathat
+ó,
+hogy
+mely m
+orális
+elvek
+adják
+közös 
+életün
+k alap
+jait,
+ez
+fontos
+része
+a demo
+kráciá
+nak,
+de ala
+pnak
+lennie
+kell.
+Az új 
+milliá
+rdosok
+arrogá
+ns cin
+izmusa
+ezt
+nem pó
+tolhat
+ja.
+Sajnos
+nem ál
+líthat
+om,
+hogy e
+rkölcs
+i szem
+pontbó
+l a jo
+bbolda
+liak h
+ibátla
+nok le
+nnének
+,
+hiszen
+mi is
+esendő
+embere
+k vagy
+unk.
+Ám jel
+entős 
+különb
+ség,
+hogy s
+zámunk
+ra
+mindig
+létezi
+k egy
+mérce,
+amelly
+el meg
+mérjük
+tettei
+nk súl
+yát, s
+ha kön
+nyűnek
+talált
+atunk,
+megpró
+bálunk
+vissza
+találn
+i a
+helyes
+útra.
+Amikor
+keresz
+tényde
+mokrác
+iáról 
+beszél
+ünk,
+akkor 
+lényeg
+ében
+arról 
+szólun
+k,
+hogy
+kell
+lennie
+egy zs
+inórmé
+rtékne
+k, ami
+alapjá
+n megk
+ülönbö
+ztetjü
+k a
+jót a 
+rosszt
+ól.
+Nem a 
+pártpo
+litika
+beszél
+t belő
+lem,
+amikor
+azt mo
+ndtam,
+hogy a
+másik 
+oldall
+al
+nincs
+alku.
+Arról
+van
+szó,
+hogy s
+emmily
+en kör
+ülmény
+ek
+között
+nem
+vagyok
+hajlan
+dó köz
+reműkö
+dni
+egy
+olyan
+világ 
+kiépít
+ésében
+, ahol
+a cini
+zmus
+az úr,
+ahol h
+iányoz
+nak az
+erkölc
+si ala
+pok.
+Magyar
+Demokr
+ata - 
+Bencsi
+k Andr
+ás,
+Bándy
+Péter

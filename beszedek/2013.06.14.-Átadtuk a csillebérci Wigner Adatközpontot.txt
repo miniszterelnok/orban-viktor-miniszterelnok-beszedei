@@ -1,0 +1,97 @@
+Átadtuk a csillebérci Wigner Adatközpontot
+2013.06.14.
+
+            Orbán Viktor beszéde a CERN@Wigner Adatközpont avatási ünnepségén, Budapesten.
+        
+
+
+	Jó napot kívánok, tisztelt Hölgyeim és Uraim! Good afternoon, Ladies and Gentlemen.
+
+	 
+
+	I welcome all our guests and I beg your pardon for speaking Hungarian. Megjegyzést szeretnék fűzni a kapcsolatteremtés problémájához. Most, hogy ez így megtörtént, hogy nem hallottuk a másik felet, már biztos vagyok, hogy itt nagy dolgok történnek, mert a rendszerváltásnál is pontosan így volt. Arra már nem emlékszem, hogy melyik gyűlésen ki mit mondott, de hogy minden egyes megbeszélés a hangosítás technikai problémáival kezdődött, arra nagyon is pontosan emlékszem.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	Örömmel jöttem ide, Önök közé, de amikor elvállaltam a meghívást, akkor éreztem, hogy nehéz fába vágom a fejszémet, mert komoly ember olyasmiről, amiről nem tudja, micsoda, nem beszél. És az igazság az, hogy a miniszterelnöki pályázat feltételei között nem szerepelt, hogy a modern informatika nemzetközi szintű ismerete is a feltételek közé tartozik. Nem kétséges, hogy egy ilyen esemény az egész ország számára nagy eredmény, komoly dicsőség, ezért örülök, hogy a kormány nevében itt Önöket köszönthetem, és úgy döntöttem, hogy végül is nem magáról erről a beruházásról, hiszen arról már beszéltek, és majd beszélnek a professzorok, szólnék néhány szót néhány más gondolatról, amely eszembe jutott, amikor ide készülődtem. Az első dolog, ami eszembe jutott, az, hogy amikor 1992-ben mi csatlakoztunk az Európai Nukleáris Kutatási Szervezethez, akkor mi egy olyan tudományos kutató közösség hivatalos tagjává váltunk, amelynek mi, magyarok tulajdonképpen mindig is a részét képeztük. Azt is mondhatnám, hogy több mint egy évtizeddel az európai uniós csatlakozás előtt már megvalósult a magyar tudomány európai integrációja.
+
+	 
+
+	Tisztelt Vendégeink!
+
+	 
+
+	Amikor mi, magyarok Teller Edéről, Wigner Jenőről, vagy Neumann Jánosról beszélünk, akkor az egyik szemünk sír, a másik pedig nevet. Egyszerre vagyunk büszkék az általuk elért tudományos eredményekre, és vagyunk szomorúak, hogy Magyarország mostoha történelmi körülményei miatt pályafutásukat nem tudták itthon megvalósítani: nem itthon, nem nálunk teljesedett ki a tudásuk. Ennek az adatközpontnak a névadója, Wigner Jenő a múlt században gyakorlatilag újraértelmezte a fizikát. Mondhatnánk úgy is, hogy társaival együtt egy új fizika alapjait tette le, és egykori gimnáziumi osztálytársát, Neumann Jánost pedig a számítógép atyjaként tisztelhetjük. Mindannyian ismerjük a történetet, ezt még magam is tanulhattam az iskolában, hogy az Amerikai Egyesült Államokban a negyvenes években Wigner Jenőt, Neumann Jánost, Teller Edét, Szilárd Leót és Kármán Tódort viccesen csak úgy nevezték, hogy az öt marslakó. Furcsa nyelven beszéltek, amelyet kizárólag csak ők értettek, vagyis ez azt jelenti, hogy magyarul beszéltek, és zseniálisak voltak, így a megfejtés nem lehetett más: nyilván a Marsról jöttek. Most, 2013-ban ebben az adatközpontban nyugodtan mondjuk ki, már most a világhírű adatközpontban tulajdonképpen Neumann találmánya fogja elvégezni azt a számítási munkát, ami a Wigner-féle fizikai világ feltárásához szükséges.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	A második gondolat, amivel köszönteni szeretném Önöket, arról szól, hogy nemcsak a múltbéli tudományos eredményeink adhatnak okot büszkeségre, a tudományos élet jelene és jövője is kezd egyre biztatóbb formát ölteni Magyarországon. Komoly esélyünk van arra, hogy a 2010 után újjászervezett oktatási rendszer képes lesz arra, hogy olyan tudós fiatalokat neveljen ki, akik helyt tudnak állni a legmagasabb színvonalú nemzetközi kutatásokban is.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	Büszkék lehetünk arra, hogy a CERN munkájában Magyarországról évente 60-70 fizikus, mérnök, informatikus, doktorandusz vesz részt. Nekünk, magyaroknak mindig hiányzott az a tudományos színtér, amely lehetővé teszi a nagyratörő és tehetséges fiataloknak, hogy úgy váljanak a világ tudományos életének részévé, hogy közben nem szakadnak el saját hazájuktól.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	Úgy látom, Magyarország ma már abban is jobban teljesít, hogy egyre inkább képesek vagyunk itthon tartani tehetséges kutatóinkat, mert egyre inkább meg tudjuk teremteni a korszerűbb tudományos kutatás föltételeit itt, Magyarországon is. Minderre nagyszerű példa annak az összefogásnak a sikere, ami két évvel ezelőtt a Magyar Tudományos Akadémia Wigner Fizikai Kutatóközpontja és a Nemzeti Fejlesztési Minisztérium között valósult meg.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	2011-ben – ez a harmadik dolog, amit megértettem – a CERN pályázatot hirdetett húsz tagállama között, ahogy az előbb hallhattuk és megértettük, egy úgynevezett Tier0 adatközpont létrehozására. A 28 benyújtott pályázat közül a Magyar Tudományos Akadémia Wigner Fizikai Kutatóközpontja és a Nemzeti Fejlesztési Minisztérium közös pályázata győzött megelőzve többek között olyan nagyhatalmakat, mondjuk úgy, hogy nagyágyúkat, mint Svédország, Norvégia vagy éppen a hazai pályán induló Svájc. Ennek eredményeként Budapesten jöhetett létre az az Európában egyedülálló adatközpont, amely biztosítani képes a genfi székhelyű CERN Kutatóintézet részecskegyorsítójából kinyert adatok földolgozásához szükséges informatikai kapacitásokat. A meghívást örömmel fogadom el, a végpont után szívesen megnézem ennek a rendszernek a kezdőpontját is, ahol az adatok létrejönnek.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	Miért nyerte el Magyarország ezt a pályázatot? Próbáltam a szakértői anyagokból ezt kisilabizálni. Én a következőkre jutottam. Először is azért nyert Magyarország, mert jó földrajzi adottságokkal rendelkezik. Másodsorban azért, mert úgy tűnt az értékelés szerint, hogy hazánkban biztosított a stabil informatikai és távközlési infrastruktúra. A harmadik fölfejthető ok az volt, hogy rendelkezésre áll magasan képzett, több nyelven beszélő munkaerő, amely mögött egy megbízható tudásbázis áll. Összességében tehát bátran mondhatjuk, hogy a pályázat elbírálói úgy látták, hogy Magyarország egy biztonságos hely, és a tudományos akadémia Wigner Fizikai Kutatóközpontja pedig jó gazdája lesz az itt elhelyezésre kerülő adatállománynak. A modern világban, tisztelt Hölgyeim és Uraim, gyakran kételyek merülnek föl, hogy van-e még szükség egyáltalán kormányokra, vagy ha már csak úgy megszokásból léteznek, van-e valami hasznuk is ezeknek. Nos, azt kell mondanom, hogy ez, amit most itt látunk, egy olyan beruházás, olyan befektetés, olyan fantasztikus dolog, amely kormányzati támogatás, kormányzati programok, kormányzati együttműködés nélkül sosem jött volna létre, mert csak a piac nem képes ezeket megteremteni. Legyünk hát büszkék arra, hogy Magyarországnak olyan miniszter asszonya van Németh Lászlóné személyében, aki nemcsak megértette ennek a fontosságát, hanem keresztülbokszolta a kormányon ennek az előterjesztésnek gyors eldöntését és pozitív elbírálását. Köszönjük szépen a miniszter asszony munkáját!
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	A negyedik dolog, amit mondani szeretnék, az, hogy egy pályázatot nem elég megnyerni, hanem a kitűzött határidőig – és mint hallhattuk az előbb professzor úrtól, a költségvetés keretein belül, ez Magyarországon különösen fontos, mi a pótmunkák hazája vagyunk, ugye –, tehát a kiszabott költségvetési kereteken belül meg is kell tudni valósítani. Ez a beruházás hihetetlen gyorsasággal ment végbe. 2012. május 8-án történt meg a CERN részéről a szerződés aláírása, és a munkálatokat május 21-én megkezdték. Ez tizenhárom nap. A szerződés aláírását követő tizenharmadik napon itt a munkák megkezdődtek. És most pedig csak egy kicsivel több, mint egy év múltán itt állunk, és átadhatjuk az adatközpontot. Az eredmény önmagáért beszél. A mai napon Európa legnagyobb működő adatátviteli hálózata jött létre Budapest és Genf között. Megpróbáltam megérteni ezeket a mértékegységeket, amiket az előkészítő anyagokban is használnak: petabájtnyi anyagok és mennyiségek, amiről beszélünk. Itt a dolog úgy fest, hogy a következő két évben 80 petabájtnyi adatot várunk csak a CERN-ből. Azt is próbáltam megérteni, hogy ez mégis mit jelenthet, túl azon, hogy tudományosan komoly, és az elvontsága miatt a magyarok fejében automatikusan elismerést kiváltó mértékegységről van szó. Hiszen a magyarok mindig is adtak arra, hiszen kultúrnemzet volnánk, és akkor is úgy teszünk, mintha megértettünk volna, hogyha egyébként ettől még messzebb vagyunk. De akárhogy is, a dolog végül is úgy fest, hogy az Országos Széchenyi Könyvtár teljes adatállományát ha digitalizálnák, akkor az négy petabájtnyi adatmennyiséget jelentene. Itt pedig nyolcvan petabájtnyi anyagról beszélünk.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	Ez a siker közös sikerünk. A Wigner Fizikai Kutatóközpont és a magyar kormány összefogásának eredménye. Nem tudtunk volna ilyen eredményt elérni, ha nem lettek volna barátaink, akik végig támogattak bennünket, akik végig ott voltak mellettünk, és akik bizalommal tekintettek Magyarországra. Összességében azt mondhatom, hogy bátrak voltuk, mertünk nagyot álmodni, sokat dolgoztunk a sikerért, és végül nyertünk. Fontos dolog, hogy a sikerben benne van az elmúlt évek és évtizedek magyar kutatóközösségének a munkája is. Ha nem lettek volna olyan kiváló és nemzetközileg elismert munkatársai az akadémiának és a kutatóintézeteknek, mint amilyenek voltak, illetve vannak, akkor a legjobb kormányzati és intézeti előterjesztés sem kaphatott volna támogatást és nemzetközi elismerést. Benne van tehát az a presztízs, amit a tudósaink hazánknak, Magyarországnak szereztek.
+
+	 
+
+	Tisztelt Hölgyeim és Uraim!
+
+	 
+
+	A dolgok jelen állása szerint a kutatási és fejlesztési programok biztató jövőt ígérnek Magyarország számára. Köszönetet mondok mindenkinek, aki ennek a nagyszerű teljesítménynek a megvalósításában részt vett. Köszönöm szépen a munkájukat!
+
+
+	 
+
+orbanviktor.hu
