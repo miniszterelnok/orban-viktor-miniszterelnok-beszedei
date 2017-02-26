@@ -2,5 +2,5 @@
 
 forrás: | orbanviktor.hu archivum|
 --- | --- |
-**beszéd:** | `270 db` |
-**interjú:** | `621 db` |
+**beszéd:** | `621 db` |
+**interjú:** | `270 db` |
